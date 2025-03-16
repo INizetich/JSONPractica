@@ -1,7 +1,7 @@
 package org.example.Models;
 
 import org.example.Exc.ListaPersonaException;
-import org.example.Models.Persona;
+
 import java.util.List;
 
 public class Curso {
